@@ -1,0 +1,299 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+.hola{
+    text-align: right;  
+
+}
+
+
+.hi{
+    width: 950px;
+}
+
+
+#uno{
+    display: inline-block;
+    position: absolute;
+    bottom: 750px;
+    left: 1180px;
+}
+
+#uno a {
+    text-decoration: none;
+    color: black;
+}
+
+
+#uno:hover{
+    text-decoration: underline;
+}
+
+#dos{
+    display: inline-block;
+   position: absolute;
+   bottom: 750px;
+   left: 1240px;
+}
+
+#dos a{
+    text-decoration: none;
+    color: black;
+}
+
+
+#dos:hover{
+    text-decoration: underline;
+}
+
+
+.icono{
+    position: absolute;
+    top: 15px;
+    left: 1340px;
+}
+
+.es{
+    border-radius:100% ;
+    position: absolute;
+    top: 15px;
+    left: 1390px;
+}
+
+.buscar{
+position: absolute;
+bottom: 350px;
+left: 370px;
+outline: none;
+}
+
+
+#camara{
+    position: absolute;
+    bottom: 100px;
+    left: 500px;
+}
+
+#microfono{
+    position: absolute;
+    bottom: 100px;
+    left: 470px;
+}
+
+
+#lupa{
+    position: absolute;
+    bottom: 100px;
+    left: 170px;
+}
+
+.abajo{
+    position: absolute;
+    background-color: rgb(234, 241, 241);
+    bottom: 50px;
+    width: 1440px;
+    height: 50px;
+    padding: 20px;
+    border: solid rgb(194, 191, 191) 1px;
+}
+
+.mas{
+    position: absolute;
+    bottom: 0px;
+    width: 1440px;
+    height: 50px;
+    padding: 20px;
+    background-color: rgb(234, 241, 241);
+    border: solid rgba(194, 191, 191) 1px;
+}
+
+#ya{
+    display:inline-block ;
+    position: absolute;
+    bottom: 10px;
+    left:20px;
+    cursor: pointer;
+}
+
+
+#ya a{
+    text-decoration: none;
+    color: black;
+}
+
+#ya a:hover{
+    text-decoration: underline;
+}
+
+#ye{
+    display: inline-block;
+    position: absolute;
+    bottom: 10px;
+    left: 105px;
+    cursor: pointer;
+}
+
+#ye a{
+    text-decoration: none;
+    color: black;
+}
+
+#ye a:hover{
+    text-decoration: underline;
+}
+
+#yi{
+    display: inline-block;
+    position: absolute;
+    bottom: 10px;
+    left: 200px;
+    cursor: pointer;
+}
+
+#yi a{
+    text-decoration: none;
+    color: black;
+}
+
+#yi a:hover{
+    text-decoration: underline;
+}
+
+#yo{
+    display: inline-block;
+    position: absolute;
+    bottom: 10px;
+    left: 280px;
+    cursor: pointer;
+}
+
+
+#yo a{
+    text-decoration: none;
+    color: black;
+}
+
+#yo a:hover{
+    text-decoration: underline;
+}
+
+#yu{
+    display: inline-block;
+    position: absolute;
+    bottom: 10px;
+    left: 1160px;
+    cursor: pointer;
+}
+
+#yu a{
+    text-decoration: none;
+    color: black;
+}
+
+#yu a:hover{
+    text-decoration: underline;
+}
+
+
+#ra{
+    display: inline-block;
+    position: absolute;
+    bottom: 10px;
+    left: 1260px;
+    cursor: pointer;
+}
+
+
+#ra a{
+    text-decoration: none;
+    color: black;
+}
+
+#ra a:hover{
+    text-decoration: underline;
+}
+
+
+
+#re{
+    display: inline-block;
+    position: absolute;
+    bottom: 10px;
+    left: 1350px;
+    cursor: pointer;
+}
+
+#re a{
+    text-decoration: none;
+    color: black;
+}
+
+#re a:hover{
+    text-decoration: underline;
+}
+
+
+.im{
+    position: absolute;
+    top: 19px;
+    left: 510px;
+ }
+ 
+
+.centrado{
+    height: 30px;
+    width: 400px;
+    border:1px solid rgb(228, 224, 224) ;
+    border-radius: 10px ;
+    position: absolute;
+    bottom: 95px;
+    left: 140px;
+}
+
+.sa{
+    background-color: rgb(250, 247, 247);
+    border: 1px solid gray;
+    display: inline-block;
+    position: absolute;
+    bottom: 380px;
+    left: 540px;
+    cursor: pointer;
+}
+
+.sa:hover{
+    box-shadow: 0px 1px 1px 1px gray;
+}
+
+.se{
+    background-color: rgb(250, 247, 247);
+    border: 1px solid gray;
+    display: inline-block;
+    position: absolute;
+    bottom: 380px;
+    left: 760px;
+    cursor: pointer;
+}
+
+.se:hover{
+    box-shadow: 0px 1px 1px 1px gray;
+}
+
+#color{
+    padding: 0px 75px;
+
+}
+
+#bu{
+    border:1px solid rgb(226, 225, 225);
+    padding: 3px;
+}
+
+#me{
+    border: 1px solid rgb(226, 225, 225);
+    padding: 3px;
+}
+
